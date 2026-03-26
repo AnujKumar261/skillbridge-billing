@@ -6,6 +6,12 @@ skillbridge-billing is a full-stack billing and invoice management system built 
 
 ---
 
+# AI Integration
+💬 Chatbot Support – Users can ask questions about invoices, orders, or products.
+🧠 Smart Suggestions – AI recommends products or order optimizations.
+📊 Insights – AI analyzes sales and billing data to provide actionable insights.
+🔐 AI-Assisted Customer Support – Helps users troubleshoot billing or account issues in real-time.
+
 ## 🚀 Features
 
 * 🔐 User Authentication (JWT-based login/signup)
@@ -14,6 +20,7 @@ skillbridge-billing is a full-stack billing and invoice management system built 
 * 👥 User Management
 * 💳 Payment Integration (Razorpay)
 * 📊 Dashboard with insights
+* 💬 AI Chatbot for support and suggestions
 * 🧮 Cart and Invoice Generation
 
 ---
@@ -42,6 +49,14 @@ skillbridge-billing is a full-stack billing and invoice management system built 
 * Razorpay
 
 ---
+
+# AI Chatbot Setup
+Obtain an API key from OpenAI or your AI provider.
+Create a .env file in client/:
+VITE_API_URL=http://localhost:5173
+VITE_OPENAI_API_KEY=your_openai_api_key_here
+The chatbot will now be active in the frontend dashboard.
+
 
 ## 📂 Project Structure
 
@@ -132,6 +147,10 @@ mvn clean install
 <img width="1919" height="1018" alt="Screenshot 2026-03-26 140317" src="https://github.com/user-attachments/assets/37754d3d-fe3c-42e9-9100-aeda0977289c" />
 
 <img width="1915" height="1013" alt="Screenshot 2026-03-26 135446" src="https://github.com/user-attachments/assets/46b4da4d-fd42-4206-bd68-15cd284bb0ff" />
+
+<img width="1912" height="1007" alt="Screenshot 2026-03-26 165635" src="https://github.com/user-attachments/assets/cbc7c660-633e-4001-91ff-1e436efa5bd7" />
+
+<img width="1919" height="1016" alt="Screenshot 2026-03-26 165651" src="https://github.com/user-attachments/assets/daef830b-9def-491b-a867-e25a72f727da" />
 
 <img width="1917" height="1014" alt="Screenshot 2026-03-26 135355" src="https://github.com/user-attachments/assets/206c3f0a-2f55-47a6-a354-ea58caec480a" />
 
