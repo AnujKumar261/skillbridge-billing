@@ -146,8 +146,6 @@ mvn clean install
 
 <img width="1919" height="1018" alt="Screenshot 2026-03-26 140317" src="https://github.com/user-attachments/assets/37754d3d-fe3c-42e9-9100-aeda0977289c" />
 
-<img width="1915" height="1013" alt="Screenshot 2026-03-26 135446" src="https://github.com/user-attachments/assets/46b4da4d-fd42-4206-bd68-15cd284bb0ff" />
-
 <img width="1912" height="1007" alt="Screenshot 2026-03-26 165635" src="https://github.com/user-attachments/assets/cbc7c660-633e-4001-91ff-1e436efa5bd7" />
 
 <img width="1919" height="1016" alt="Screenshot 2026-03-26 165651" src="https://github.com/user-attachments/assets/daef830b-9def-491b-a867-e25a72f727da" />
