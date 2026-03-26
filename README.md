@@ -126,6 +126,16 @@ mvn clean install
 
 ---
 
+### Screenshot
+
+<img width="1915" height="1013" alt="Screenshot 2026-03-26 135446" src="https://github.com/user-attachments/assets/eaade1e1-a34c-40a0-911a-a5a12c8307ef" />
+
+
+
+
+
+
+
 ## 🧠 Future Improvements
 
 * 📱 Mobile responsiveness
